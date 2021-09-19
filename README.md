@@ -1,4 +1,4 @@
-KHAN Academy - Intro to SQL
+Khan Academy - Intro to SQL
 
 This repository contains solutions to challenges and code projects from "Intro To SQL: Querying and managing data".
 
